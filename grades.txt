@@ -1,0 +1,11 @@
+Grade Lower Upper(exclusive)
+A+ 95 101
+A 85 95
+A- 75 85
+B+ 70 75
+B 65 70
+B- 60 65
+C+ 57 60
+C 53 57
+C- 50 53
+F 0 50

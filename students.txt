@@ -1,0 +1,29 @@
+RollNo Name
+BSCE21040 Maryam Shahid
+BSCE22001 Muhammad Miqdad Ahmad
+BSCE22003 Ahmad Waleed Akhtar
+BSCE22004 Murtaza Khalid
+BSCE22005 Muhammad Mateen Amjad
+BSCE22006 Muhammad Arham Ashfaque
+BSCE22007 Muhammad Arham
+BSCE22009 Abdullah Farrukh Sanani
+BSCE22011 Fatima Waseem
+BSCE22012 Aitsam Atif
+BSCE22013 Muhammad Saad Ramzan
+BSCE22017 Hadia Ahmad
+BSCE22018 Maheen
+BSCE22020 Ariba Mumtaz
+BSCE22025 Huzaifa Khan
+BSCE22026 Syed Kifayat Ur Rahman
+BSCE22028 Syeda Maham Batool
+BSCE22030 Syed Muhammad Atif
+BSCE22031 Maryam Aftab
+BSCE22032 Umair Ul Hassan
+BSCE22034 Muhammad Abdullah Chaudary
+BSCE22035 Alishba Zahid
+BSCE22040 Abdullah Zahid
+BSCE22042 Muhammad Khizar Naveed
+BSCE22044 Muhammad Hassan Arif
+BSCE22045 Usman Shakir
+BSCE22048 Muhammad Haseeb
+BSCE20040 Zafar Ali

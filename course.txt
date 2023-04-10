@@ -1,0 +1,10 @@
+Name
+Object Oriented Programming
+Course Code 
+CE101
+Component Name Weightage(Percentage) Quantity Best
+Assignment 10 5 4
+Quiz 15 8 6
+Project 10 1 1
+Midterm 25 1 1
+Final 40 1 1
